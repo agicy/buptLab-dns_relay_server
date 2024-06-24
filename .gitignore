@@ -1,0 +1,44 @@
+# No .a, .dll files
+*.a
+*.dll
+
+# No .so files
+*.so
+
+# No .o files
+*.o
+
+# No .out files
+*.out
+
+# No .exe files
+*.exe
+
+# No .class files
+*.class
+
+# No .swp files
+*.swp
+
+# Ignore directories created by certain IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore build directory
+obj/
+build/
+
+# Ignore distribution directory
+dist/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+dns_relay
+data.txt
